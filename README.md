@@ -1,5 +1,7 @@
 # CALKULATOR-PENJUMLAHAN-BITWISE
 #JAVA
+#open redmemd
+
 just having fun  hehe
 //program penjumlahan BITWISE
 //by yudonidlomf
