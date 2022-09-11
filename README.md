@@ -3,6 +3,7 @@
 just having fun  hehe
 //program penjumlahan BITWISE
 //by yudonidlomf
+
 import java.util.Scanner;
 
 public class tes{
